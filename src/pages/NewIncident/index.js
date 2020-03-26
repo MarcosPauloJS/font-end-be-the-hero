@@ -40,7 +40,7 @@ function NewIncident(){
 
     return (
         <div className="new-incident-container">
-            <div className="content">
+            <div className="content"> 
                 <section>
                     <img src={logoImg} alt="logo do site be the heroes"/>
                     <h1>Casdatro</h1>
